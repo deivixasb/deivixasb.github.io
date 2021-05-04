@@ -1,0 +1,141 @@
+.u-section-1 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url("images/background.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 590px;
+}
+
+.u-section-1 .u-text-1 {
+  text-shadow: 7px 4px 0px rgba(255,0,11,0.7);
+  font-family: "Abril Fatface";
+  text-transform: uppercase;
+  font-style: italic;
+  font-weight: normal;
+  margin: 40px 20px 0;
+}
+
+.u-section-1 .u-text-2 {
+  font-weight: 400;
+  font-family: "Abril Fatface";
+  text-shadow: 5px 2px 0px rgba(255,0,11,0.7);
+  margin: 89px 867px 0 29px;
+}
+
+.u-section-1 .u-text-3 {
+  font-weight: 400;
+  font-family: "Abril Fatface";
+  text-shadow: 5px 2px 0px rgba(255,0,11,0.7);
+  margin: -72px 14px 0 882px;
+}
+
+.u-section-1 .u-custom-html-1 {
+  min-height: 161px;
+  margin: 14px 823px 0 0;
+}
+
+.u-section-1 .u-custom-html-2 {
+  min-height: 161px;
+  margin: -161px 0 60px 827px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 486px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 696px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-right: 0;
+    margin-left: 696px;
+  }
+
+  .u-section-1 .u-custom-html-1 {
+    width: 570px;
+    margin-right: 623px;
+    height: auto;
+  }
+
+  .u-section-1 .u-custom-html-2 {
+    height: auto;
+    margin-left: 627px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 372px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 476px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-left: 476px;
+  }
+
+  .u-section-1 .u-custom-html-1 {
+    margin-right: 403px;
+  }
+
+  .u-section-1 .u-custom-html-2 {
+    margin-left: 407px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 279px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 296px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-left: 296px;
+  }
+
+  .u-section-1 .u-custom-html-1 {
+    width: 540px;
+    margin-right: 223px;
+  }
+
+  .u-section-1 .u-custom-html-2 {
+    margin-left: 227px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 176px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 96px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-left: 96px;
+  }
+
+  .u-section-1 .u-custom-html-1 {
+    width: 340px;
+    margin-right: 23px;
+  }
+
+  .u-section-1 .u-custom-html-2 {
+    margin-left: 27px;
+  }
+}
